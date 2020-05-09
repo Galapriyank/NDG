@@ -1,5 +1,5 @@
 # NDG
-Final project for INFO 6250 - Application Engineering and Development course at Northeastern University's College of Engineering. INFO5100 was designed to practice social-technical software engineering technicques to solve real-world business problems. Students will learn to  employ the object-oriented paradigm, visual user interface design principles, the Java Programming language, as well as productivity tools to put together complicated, powerful business applications with ease and to master the art of how methodologically to write software programs for any kind of business problems
+Final project for INFO 5100 - Application Engineering and Development course at Northeastern University's College of Engineering. INFO5100 was designed to practice social-technical software engineering technicques to solve real-world business problems. Students will learn to  employ the object-oriented paradigm, visual user interface design principles, the Java Programming language, as well as productivity tools to put together complicated, powerful business applications with ease and to master the art of how methodologically to write software programs for any kind of business problems
 
 You can find more about the course at http://msis.neu.edu/fall2019/info5100-01.pdf
 
